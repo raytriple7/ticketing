@@ -39,36 +39,158 @@
 |3,0,36,0,1,0,1659669251,"c"
 
 # File marks:
-'0  3  0  ~/MGTuser.sh
-|4,48,3,0,1660225191,"~/MGTuser.sh"
-'1  9  15  ~/MGTuser2.sh
-|4,49,9,15,1660225109,"~/MGTuser2.sh"
-'2  1  0  ~/MGTusder.sh
-|4,50,1,0,1660224975,"~/MGTusder.sh"
-'3  2  0  ~/MGTuser.sh
-|4,51,2,0,1660221860,"~/MGTuser.sh"
+'0  6  24  ~/gitfile.txt
+|4,48,6,24,1660294860,"~/gitfile.txt"
+'1  5  0  ~/gitfile.txt
+|4,49,5,0,1660294401,"~/gitfile.txt"
+'2  5  0  ~/gitfile.txt
+|4,50,5,0,1660294401,"~/gitfile.txt"
+'3  1  24  ~/MGTuser.sh
+|4,51,1,24,1660284201,"~/MGTuser.sh"
 '4  2  0  ~/MGTuser.sh
-|4,52,2,0,1660221860,"~/MGTuser.sh"
-'5  7  23  ~/fintech/gitfile.txt
-|4,53,7,23,1660170925,"~/fintech/gitfile.txt"
-'6  6  22  ~/fintech/gitfile.txt
-|4,54,6,22,1660170810,"~/fintech/gitfile.txt"
-'7  6  22  ~/fintech/gitfile.txt
-|4,55,6,22,1660170810,"~/fintech/gitfile.txt"
-'8  5  63  ~/gitfile.txt
-|4,56,5,63,1660170132,"~/gitfile.txt"
-'9  5  63  ~/gitfile.txt
-|4,57,5,63,1660145703,"~/gitfile.txt"
+|4,52,2,0,1660225191,"~/MGTuser.sh"
+'5  3  0  ~/MGTuser.sh
+|4,53,3,0,1660225191,"~/MGTuser.sh"
+'6  9  15  ~/MGTuser2.sh
+|4,54,9,15,1660225109,"~/MGTuser2.sh"
+'7  1  0  ~/MGTusder.sh
+|4,55,1,0,1660224975,"~/MGTusder.sh"
+'8  1  26  ~/MGTuser.sh
+|4,56,1,26,1660221860,"~/MGTuser.sh"
+'9  2  0  ~/MGTuser.sh
+|4,57,2,0,1660221860,"~/MGTuser.sh"
 
 # Jumplist (newest first):
+-'  6  24  ~/gitfile.txt
+|4,39,6,24,1660294860,"~/gitfile.txt"
+-'  5  0  ~/gitfile.txt
+|4,39,5,0,1660294820,"~/gitfile.txt"
+-'  5  0  ~/gitfile.txt
+|4,39,5,0,1660294401,"~/gitfile.txt"
+-'  1  0  ~/gitfile.txt
+|4,39,1,0,1660294125,"~/gitfile.txt"
+-'  1  0  ~/gitfile.txt
+|4,39,1,0,1660294125,"~/gitfile.txt"
+-'  1  24  ~/MGTuser.sh
+|4,39,1,24,1660284201,"~/MGTuser.sh"
+-'  1  24  ~/MGTuser.sh
+|4,39,1,24,1660284201,"~/MGTuser.sh"
+-'  1  24  ~/MGTuser.sh
+|4,39,1,24,1660284201,"~/MGTuser.sh"
+-'  1  24  ~/MGTuser.sh
+|4,39,1,24,1660284201,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
 -'  3  0  ~/MGTuser.sh
 |4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
 -'  2  0  ~/MGTuser.sh
 |4,39,2,0,1660225153,"~/MGTuser.sh"
 -'  9  15  ~/MGTuser2.sh
 |4,39,9,15,1660225109,"~/MGTuser2.sh"
 -'  9  15  ~/MGTuser2.sh
 |4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
+-'  1  0  ~/MGTusder.sh
+|4,39,1,0,1660224975,"~/MGTusder.sh"
 -'  1  0  ~/MGTusder.sh
 |4,39,1,0,1660224975,"~/MGTusder.sh"
 -'  1  0  ~/MGTusder.sh
@@ -85,6 +207,34 @@
 |4,39,2,0,1660221860,"~/MGTuser.sh"
 -'  2  0  ~/MGTuser.sh
 |4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660221860,"~/MGTuser.sh"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
+-'  7  0  ~/MGTuser.sh
+|4,39,7,0,1660216055,"~/MGTuser.sh"
 -'  9  0  ~/MGTuser.sh
 |4,39,9,0,1660216055,"~/MGTuser.sh"
 -'  8  0  ~/MGTuser.sh
@@ -95,186 +245,50 @@
 |4,39,8,0,1660216055,"~/MGTuser.sh"
 -'  8  0  ~/MGTuser.sh
 |4,39,8,0,1660216055,"~/MGTuser.sh"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  7  23  ~/fintech/gitfile.txt
-|4,39,7,23,1660170925,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170893,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  6  22  ~/fintech/gitfile.txt
-|4,39,6,22,1660170810,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  1  0  ~/fintech/gitfile.txt
-|4,39,1,0,1660170764,"~/fintech/gitfile.txt"
--'  5  63  ~/gitfile.txt
-|4,39,5,63,1660170132,"~/gitfile.txt"
--'  5  63  ~/gitfile.txt
-|4,39,5,63,1660170132,"~/gitfile.txt"
--'  5  63  ~/gitfile.txt
-|4,39,5,63,1660170132,"~/gitfile.txt"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
+-'  7  0  ~/MGTuser.sh
+|4,39,7,0,1660216055,"~/MGTuser.sh"
+-'  9  0  ~/MGTuser.sh
+|4,39,9,0,1660216055,"~/MGTuser.sh"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
+-'  8  0  ~/MGTuser.sh
+|4,39,8,0,1660216055,"~/MGTuser.sh"
 
 # History of marks within files (newest to oldest):
 
+> ~/gitfile.txt
+	*	1660294852	0
+	"	6	24
+	^	6	25
+	.	6	24
+	+	8	63
+	+	1	194
+	+	1	104
+	+	2	38
+	+	3	24
+	+	4	23
+	+	5	65
+	+	6	24
+
 > ~/MGTuser.sh
-	*	1660225190	0
-	"	3	0
-	^	3	0
-	.	2	20
-	+	10	6
-	+	8	7
-	+	9	0
-	+	10	7
+	*	1660284199	0
+	"	1	24
+	^	1	25
+	.	1	25
+	+	9	6
+	+	7	7
+	+	8	0
+	+	9	7
 	+	1	26
-	+	2	20
+	+	1	25
 
 > ~/MGTuser2.sh
 	*	1660225074	0
@@ -306,13 +320,6 @@
 	.	7	23
 	+	6	23
 	+	7	23
-
-> ~/gitfile.txt
-	*	1660170129	0
-	"	5	63
-	^	5	64
-	.	5	63
-	+	5	63
 
 > ~/fintech/devops.txt
 	*	1660131508	0

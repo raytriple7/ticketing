@@ -1,58 +1,3 @@
-ls
-cat var2.sh
-vi var3.sh
-sh var3.sh
-vi var3.sh
-sh var3.sh
-tree
-vi var4.sh
-sh var4.sh
-vi var5.sh
-sh var5.sh
-vi var5.sh
-sh var5.sh
-vi var5.sh
-sh var5.sh
-ls
-tree
-54.176.66.28
-ls
-vi var6.sh
-sh var6.sh
-ls
- / home
-ls /home
-tail -2 /etc/passwd
-vi var6.sh
-sh var6.sh
-ls /home
-sh var6.sh
-cat var6.sh
-vi var7.sh
-sh.var7.sh
-sh var7.sh
-vi var7.sh
-sh var7
-sh var7.sh
-vi var7.sh
-sh var7.sh
-sh var7.1.sh
-ls /
-ls
-tree
-vi var7.1.sh
-sh var7.1.sh
-vi var7.1.sh
-sh var7.1.sh
-vi var7.1.sh
-sh var7.1.sh
-echo $#
-echo $$
-ps -ef
-echo $*
-vi MGTuser.sh
-sh MGTuser.sh
-cat MGTuser.sh
 vi MGTuser.sh
 sh MGTuser.sh
 sh MGTuser.sh cohort8 dev
@@ -198,3 +143,58 @@ vi gitfile.txt
 git init
 git status
 git branch
+git --version
+git status
+ls
+whereis git
+git config username
+cd fintech
+git config username
+cd
+git config acada learning
+git config username "Acada learning "
+git config --global username " Acada Learning
+git config user.name
+git config user.email
+git init
+git status
+vi MGTuser.sh
+git status
+git add MGTuser.sh
+git status
+git commit -m "edited MGTuser.sh"
+git status
+vi MGTusder.sh
+vi MGTuser2.sh
+vi MGTuser.sh
+dit status
+git status
+git add .
+git status
+git commit --m "new line"
+git commit -am 
+git log
+vi MGTuser.sh
+git log
+git status
+git log --oneline
+echo God help me with this training >> MGTuser.sh
+cat MGTuser.sh
+git log
+git log --oneline
+git log --since
+git log --since=2022-08-12
+date
+git log --since=2022-08-12
+git log --since=2022-08-11
+git log --untill=2022-08-12
+git log --until
+git log until=2022-08-12
+commit -m
+git commit --m
+git commit -m
+git log -3
+git log --oneline
+git show 7e60721
+ls
+git commit -m "add new file"

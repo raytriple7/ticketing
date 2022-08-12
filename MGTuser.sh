@@ -1,5 +1,4 @@
-Welcome to acada learning 
-we are editing again
+Welcome to acada learning
 pwd
 echo $0
 echo $1
@@ -9,3 +8,4 @@ echo $9
 date
 echo $?
 
+God help me with this training
