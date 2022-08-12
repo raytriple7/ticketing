@@ -1,29 +1,3 @@
-cd /
-su root
-sudo su root/
-ls /
-sudo su root
-cd
-tree
-cd umask1
-ls
-cd
-git --version
-sudo yum install git -y
-where is git
-whereis git
-git config --global user.name "acadalearning"
-git config --global user.email "info@acadaleaning.com"
-git config user.email
-git config user.name
-mkdir fintech
-cd fintech
-git init
-ls -a
-ls al
-ls -al
-git status
-vi uba.txt
 git status
 git add uba.txt
 git status
@@ -198,3 +172,29 @@ git log
 git log --oneline
 git add MGTuser.sh
 git log --oneline
+echo "showing the head changes" >> gitfile.txt
+cat gitfile.txt
+git log
+git commit -am"add line to show head"
+git status
+git log --oneline -3
+touch gitfile{1..3}.txt
+ls
+git branch
+git log --oneline
+su efe
+ls
+cd ernest
+su deji
+su ray
+cd efe
+ls
+cd
+cd deji
+useradd efe
+useradd ken
+sudo useradd ken
+cd ken
+ls
+cd
+exit
