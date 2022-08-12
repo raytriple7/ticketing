@@ -1,78 +1,3 @@
-git status
-git add uba.txt
-git status
-git commit -m "created new file uba.txt"
-git status
-vi uba.txt
-git status
-git add .
-git status
-git commit -m "new line added"
-git status
-vi uba.txt
-git status
-git commit -am "deleted line"
-git status
-git log
-git log --since=2022-08-10
-git log --since=2022-08-010
-git log --unit=2022-08-10
-date
-git log --until=2022-08-10
-git log -2
-git log --online
-git log --oneline
-git show fa137e8
-git show 969c6fe
-vi acada.txt
-git status 
-vi devops.txt
-ls
-git status
-git add.
-git add .
-git status
-git commit --all
-git commit -m "add 2 new lines"
-git status
-git log
-git commit --amend -m "add 2 new files"
-mkdir gitfile.txt
-rm gitfile.txt
-rm -r gitfile.txt
-vi gitfile.txt
-git status
-tree
-git status
-git
-git status
-cd fintech 
-git status
-gt status
-git statues
-vi gitfile.txt
-git status
-cd fintech
-git status
-cd
-sudo yum install git
-git status
-cd
-git status
-git
-git add
-sudo yum install git -y
-mkdir raymond 
-cd raymond
-sudo yum install git -y
-git status
-cd
-ls
-git add gitfile.txt
-cd fintect
-mv -f gitfile.txt /home/fintech
-mv -f gitfile.txt fintech
-cd fintech
 ls
 git status
 git add gitfile.txt
@@ -198,3 +123,78 @@ cd ken
 ls
 cd
 exit
+ls ll
+ll
+cd fintech
+us ken
+useradd ken
+useradd aliosa
+sudo useradd aliosa
+ls
+/home
+su aliosa
+admin123
+cd
+ll
+git branch bugfix
+git branch
+git checkout bugfix
+git branch
+git status
+ls
+git log --oneline
+echo "adding a new line of text from bugfix master " >> gitfile.txt
+git add
+git add .
+git status
+git commit -m "add new line on bugfix"
+git status
+git log
+git log --oneline
+vi gitfile.txt
+git commit -am "anther line add "
+git log --oneline
+git switch master
+git branch
+git log --oneline
+vi gitfile.txt
+git switch bugfix
+git checkout bugfix
+sudo git switch bugfix
+git merge master
+git merge bugfix
+vi viminfo
+ls
+cat viminfo
+ls viminfo
+git log --oneline
+git merge bugfix
+git status
+git add .
+git status
+git add .
+git status
+git merge bugfix
+git commit --all
+git merge bugfix
+git status
+git add .
+git status
+git add fintech
+git status
+git commit --all
+git merge bugfix
+git log --oneline
+git branch
+vi gitfile.txt
+git log
+git switch bugfix
+git branch
+git exit
+git switch
+git switch master
+git branch
+git log --oneline
+git branch -d bugfix
+git checkout -b new_feature
+git branch
