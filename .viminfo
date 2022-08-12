@@ -39,6 +39,7 @@
 |3,0,36,0,1,0,1659669251,"c"
 
 # File marks:
+<<<<<<< HEAD
 '0  1  0  ~/viminfo
 |4,48,1,0,1660303711,"~/viminfo"
 '1  1  0  ~/viminfo
@@ -47,20 +48,36 @@
 |4,50,7,36,1660303205,"~/gitfile.txt"
 '3  7  36  ~/gitfile.txt
 |4,51,7,36,1660296065,"~/gitfile.txt"
+=======
+'0  10  28  ~/gitfile.txt
+|4,48,10,28,1660302969,"~/gitfile.txt"
+'1  7  36  ~/gitfile.txt
+|4,49,7,36,1660296065,"~/gitfile.txt"
+'2  7  36  ~/gitfile.txt
+|4,50,7,36,1660296065,"~/gitfile.txt"
+'3  6  24  ~/gitfile.txt
+|4,51,6,24,1660294860,"~/gitfile.txt"
+>>>>>>> bugfix
 '4  6  24  ~/gitfile.txt
 |4,52,6,24,1660294860,"~/gitfile.txt"
 '5  6  24  ~/gitfile.txt
 |4,53,6,24,1660294860,"~/gitfile.txt"
 '6  6  24  ~/gitfile.txt
 |4,54,6,24,1660294860,"~/gitfile.txt"
+<<<<<<< HEAD
 '7  6  24  ~/gitfile.txt
 |4,55,6,24,1660294860,"~/gitfile.txt"
+=======
+'7  5  0  ~/gitfile.txt
+|4,55,5,0,1660294401,"~/gitfile.txt"
+>>>>>>> bugfix
 '8  5  0  ~/gitfile.txt
 |4,56,5,0,1660294401,"~/gitfile.txt"
 '9  5  0  ~/gitfile.txt
 |4,57,5,0,1660294401,"~/gitfile.txt"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  1  0  ~/viminfo
 |4,39,1,0,1660303711,"~/viminfo"
 -'  1  0  ~/viminfo
@@ -79,6 +96,12 @@
 |4,39,7,36,1660296065,"~/gitfile.txt"
 -'  7  36  ~/gitfile.txt
 |4,39,7,36,1660296065,"~/gitfile.txt"
+=======
+-'  10  28  ~/gitfile.txt
+|4,39,10,28,1660302969,"~/gitfile.txt"
+-'  7  36  ~/gitfile.txt
+|4,39,7,36,1660302943,"~/gitfile.txt"
+>>>>>>> bugfix
 -'  7  36  ~/gitfile.txt
 |4,39,7,36,1660296065,"~/gitfile.txt"
 -'  6  24  ~/gitfile.txt
@@ -86,6 +109,7 @@
 -'  6  24  ~/gitfile.txt
 |4,39,6,24,1660295499,"~/gitfile.txt"
 -'  6  24  ~/gitfile.txt
+<<<<<<< HEAD
 |4,39,6,24,1660295499,"~/gitfile.txt"
 -'  6  24  ~/gitfile.txt
 |4,39,6,24,1660295499,"~/gitfile.txt"
@@ -100,6 +124,8 @@
 -'  6  24  ~/gitfile.txt
 |4,39,6,24,1660294860,"~/gitfile.txt"
 -'  6  24  ~/gitfile.txt
+=======
+>>>>>>> bugfix
 |4,39,6,24,1660294860,"~/gitfile.txt"
 -'  6  24  ~/gitfile.txt
 |4,39,6,24,1660294860,"~/gitfile.txt"
@@ -118,6 +144,7 @@
 -'  5  0  ~/gitfile.txt
 |4,39,5,0,1660294820,"~/gitfile.txt"
 -'  5  0  ~/gitfile.txt
+<<<<<<< HEAD
 |4,39,5,0,1660294820,"~/gitfile.txt"
 -'  5  0  ~/gitfile.txt
 |4,39,5,0,1660294820,"~/gitfile.txt"
@@ -136,6 +163,8 @@
 -'  5  0  ~/gitfile.txt
 |4,39,5,0,1660294401,"~/gitfile.txt"
 -'  5  0  ~/gitfile.txt
+=======
+>>>>>>> bugfix
 |4,39,5,0,1660294401,"~/gitfile.txt"
 -'  1  0  ~/gitfile.txt
 |4,39,1,0,1660294125,"~/gitfile.txt"
@@ -145,6 +174,7 @@
 |4,39,1,0,1660294125,"~/gitfile.txt"
 -'  1  0  ~/gitfile.txt
 |4,39,1,0,1660294125,"~/gitfile.txt"
+<<<<<<< HEAD
 -'  1  0  ~/gitfile.txt
 |4,39,1,0,1660294125,"~/gitfile.txt"
 -'  1  0  ~/gitfile.txt
@@ -229,6 +259,8 @@
 |4,39,1,24,1660284201,"~/MGTuser.sh"
 -'  1  24  ~/MGTuser.sh
 |4,39,1,24,1660284201,"~/MGTuser.sh"
+=======
+>>>>>>> bugfix
 -'  1  24  ~/MGTuser.sh
 |4,39,1,24,1660284201,"~/MGTuser.sh"
 -'  1  24  ~/MGTuser.sh
@@ -261,6 +293,149 @@
 |4,39,1,24,1660284201,"~/MGTuser.sh"
 -'  1  24  ~/MGTuser.sh
 |4,39,1,24,1660284201,"~/MGTuser.sh"
+<<<<<<< HEAD
+=======
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660284163,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  3  0  ~/MGTuser.sh
+|4,39,3,0,1660225191,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  2  0  ~/MGTuser.sh
+|4,39,2,0,1660225153,"~/MGTuser.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+-'  9  15  ~/MGTuser2.sh
+|4,39,9,15,1660225109,"~/MGTuser2.sh"
+>>>>>>> bugfix
 
 # History of marks within files (newest to oldest):
 
@@ -269,10 +444,17 @@
 	"	1	0
 
 > ~/gitfile.txt
+<<<<<<< HEAD
 	*	1660303204	0
 	"	7	36
 	^	7	37
 	.	7	36
+=======
+	*	1660302968	0
+	"	10	28
+	^	10	29
+	.	10	28
+>>>>>>> bugfix
 	+	8	63
 	+	1	194
 	+	1	104
@@ -282,6 +464,7 @@
 	+	5	65
 	+	6	37
 	+	7	36
+	+	10	28
 
 > ~/MGTuser.sh
 	*	1660284199	0
