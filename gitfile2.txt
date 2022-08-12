@@ -1,1 +1,2 @@
  we are addin this line from the cli after our first git push/pull 
+we want to try pulling direstly and then we are going to commit our changes
