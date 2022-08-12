@@ -8,3 +8,4 @@ Git is an interesting course to learn.
 showing the head changes
 adding a new line of text from bugfix master
 its just a brigther sunny day 
+we are adding this new line from the gui
