@@ -1,37 +1,3 @@
-vi MGTuser.sh
-sh MGTuser.sh
-sh MGTuser.sh cohort8 dev
-sh MGT.sh start stop restart sleep
-sh MGTuser.sh start stop restart sleep
-sh MGTuser.sh start stop restart sleep the day school dev acada
-vi MGTuser2.sh
-sh MGTuser.sh school dev ops ACADA
-vi MGTuser.sh
-sh MGTuser2.sh school dev ops acada
-vi MGTuser.sh
-vi MGTuser2.sh
-sh MGTuser2.sh
-vi MGTuser2.sh
-sh MGTuser.sh school dev ops acada
-sh MGTuser2.sh school dev ops acada
-vi MGTuser2.sh
-sh MGTuser2.sh school dev ops acada
-vi MGTuser2.sh
-sh MGTuser2.sh school dev acada
-sh MGTuser2.sh date 
-sh MGTuser2.sh chool dev ops acada the good boy girl updown downup
-vi MGTuser2.sh
-vi class1.sh
-sh class1.sh start 
-tree
-cd umask2
-cd
-cd umask2
- ls
-sudo su umask2
-cd efe
-ls
-cd
 cd /
 su root
 sudo su root/
@@ -198,3 +164,37 @@ git log --oneline
 git show 7e60721
 ls
 git commit -m "add new file"
+ls gitfile.txt
+ls
+tree
+mkdir gitfile.txt
+rm-r gitfile.txt
+rm -r gitfile.txt
+vi gitfile.txt
+git status
+git add gitfile.txt
+git status
+git commit -m "Add first content"
+git status
+vi gitfile.txt
+git status
+git commit -am "add a new line"
+git status
+vi gitfile.txt
+git status
+git commit
+git add .
+rm -f umask2
+git add .
+cd
+git add .
+rm -rf umask2
+ls
+git add .
+git status
+git commit
+git status
+git log
+git log --oneline
+git add MGTuser.sh
+git log --oneline
