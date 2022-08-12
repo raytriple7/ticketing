@@ -1,0 +1,5 @@
+This is a test git file for cohort 8, the expectation is that at the end of this lecuture we would have 
+Refresh our memory from the last class
+learn about git branches
+Open git repository and
+Push our code from the local repository to the remote repository.
